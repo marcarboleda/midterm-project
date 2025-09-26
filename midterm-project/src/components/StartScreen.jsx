@@ -26,7 +26,7 @@ function StartScreen() {
           required
           maxLength="15"
         />
-        <button type="submit">Start the Hunt</button>
+        <button type="submit">Begin the Hunt</button>
       </form>
     </div>
   );
